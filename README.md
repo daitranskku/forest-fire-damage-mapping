@@ -1,14 +1,15 @@
-# Damage Map Estimation in Forest Fire Using Drone Images and Deep Learning Algorithms
+# Damage-Map Estimation After Forest Fires Using Drone Images and Deep-Learning Algorithms
 
 ## Overall
-The repo contains all source-code for our proposed approach in the paper titled "Damage Map Estimation in Forest Fire Using Drone Images and Deep Learning Algorithms"
+The repo contains all source-code for our proposed approach in the paper titled "Damage-Map Estimation After Forest Fires Using Drone Images and Deep-Learning Algorithms"
 ### Forest fire information
 Location: Andong, South Korea 
 
 Date: from April 24, 2020 to April 26, 2020
 ### Data acquisition information
 Captured location: Mount 112, Ingeum-ri, Pungcheon-myeon, Andong-si, Gyeongsangbuk-do, 15-3 Haari, Namhu-myeon, Andong-si, Gyeongsangbuk-do
-Devices: Phantom 4 prov2.0, filming altitude: 150m, filming length: about 130
+
+Devices: Phantom 4 Pro vB2.0
 
 ### Burned area mapping results
 ![](figure/map_1.PNG)
