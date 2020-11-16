@@ -15,7 +15,7 @@ Devices: Phantom 4 Pro vB2.0
 ![](figure/map_1.PNG)
 
 ![](figure/map_2.PNG)
-
+m
 ## Setup environment
 
 Install [minianaconda](https://docs.conda.io/en/latest/miniconda.html)
