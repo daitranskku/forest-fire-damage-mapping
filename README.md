@@ -18,7 +18,7 @@ Date: May 6, 2020
 ![](figure/map_1.PNG)
 
 ![](figure/map_2.PNG)
-m
+
 ## Setup environment
 
 Install [minianaconda](https://docs.conda.io/en/latest/miniconda.html)
