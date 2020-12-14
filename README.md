@@ -1,7 +1,7 @@
 # Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System
 
 ## Introduction
-The repo contains all source-code for our proposed approach in the paper entitled "Damage-Map Estimation After Forest Fires Using Drone Images and Deep-Learning Algorithms"
+The repo contains all source-code for our proposed approach in the paper entitled "Damage-Map Estimation Using UAV Images and Deep Learning Algorithms for Disaster Management System"
 ![](figure/uav_concept.PNG)
 
 ### Forest fire information
