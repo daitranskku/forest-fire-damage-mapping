@@ -70,3 +70,19 @@ With pretrained weights from [this link](https://drive.google.com/drive/folders/
 After receiving the predicted results, [post processing functions](post_processing_functions.mlx) can be used for postprocessing.
 
 The EXIF information can be extracted by using [extract EXIF function](extract_EXIF.ipynb)
+
+## Citation
+If you use this code for your research, please cite our papers
+
+`
+@article{tran_damage-map_2020,
+	title = {Damage-{Map} {Estimation} {Using} {UAV} {Images} and {Deep} {Learning} {Algorithms} for {Disaster} {Management} {System}},
+	volume = {12},
+	issn = {2072-4292},
+	url = {https://www.mdpi.com/2072-4292/12/24/4169},
+	doi = {10.3390/rs12244169},
+	number = {24},
+	journal = {Remote Sensing},
+	author = {Tran, Dai Quoc and Park, Minsoo and Jung, Daekyo and Park, Seunghee},
+	year = {2020}
+}`
